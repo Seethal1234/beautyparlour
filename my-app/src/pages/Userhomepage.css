@@ -1,0 +1,72 @@
+#textforpara{
+    position: relative;
+    bottom: 700px;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    font-weight: bolder;
+}
+
+/* buttons */
+.button1 {
+  background-color: #FFFFFF;
+  border: 1px solid #222222;
+  border-radius: 8px;
+  box-sizing: border-box;
+  color: #222222;
+  cursor: pointer;
+  display: inline-block;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 20px;
+  margin: 0;
+  outline: none;
+  padding: 13px 23px;
+  position: relative;
+  bottom: 650px;
+  left: 400px;
+  text-align: center;
+  text-decoration: none;
+  touch-action: manipulation;
+  transition: box-shadow .2s,-ms-transform .1s,-webkit-transform .1s,transform .1s;
+  user-select: none;
+  -webkit-user-select: none;
+  width: auto;
+}
+
+.button2 {
+    background-color: #FFFFFF;
+    border: 1px solid #222222;
+    border-radius: 8px;
+    box-sizing: border-box;
+    color: #222222;
+    cursor: pointer;
+    display: inline-block;
+    font-family: 'Times New Roman', Times, serif;    font-size: 16px;
+    font-weight: 600;
+    line-height: 20px;
+    margin: 0;
+    outline: none;
+    padding: 13px 23px;
+    position: relative;
+    bottom: 650px;
+    left:500px;
+    text-align: center;
+    text-decoration: none;
+    touch-action: manipulation;
+    transition: box-shadow .2s,-ms-transform .1s,-webkit-transform .1s,transform .1s;
+    user-select: none;
+    -webkit-user-select: none;
+    width: auto;
+  }
+  
+  .card-title1{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .card-title2{
+    font-size: 10px;
+    font-family: 'Times New Roman', Times, serif;
+  }

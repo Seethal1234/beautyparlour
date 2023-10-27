@@ -1,0 +1,88 @@
+/* NAV */
+#nav-bar{
+    background-color: white;
+   }
+   .topnav {
+    overflow: hidden;
+    background-color: rgb(253, 183, 206);
+    position: relative;
+  }
+  
+  .topnav #myLinks {
+    display: none;
+  }
+  
+  .topnav a {
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    display: block;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+  }
+  
+  .topnav a.icon {
+    background:rgb(230, 182, 198);
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 0;
+    
+  }
+  
+  .topnav a:hover {
+    
+    color: palevioletred;
+  }
+  
+  .active {
+    background-color: palevioletred;
+   
+    
+  }
+  /*  ...  */
+  #fheading{  
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 40px;
+    letter-spacing: 2px;
+  }
+  #fpara{
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 2px;
+    word-spacing: 10px;
+  }
+  /* .categories.. */
+
+  ul{
+    list-style-type: none;
+    
+  }
+
+  li{
+    float: left;
+  }
+
+  li a{
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 30px;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+  }
+  /* dropdwn */
+  #button1{
+    position: absolute;
+    top: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    border-color: pink;
+    color: palevioletred;
+    background-color: white;
+  }
+  .dropdown-menu{
+    padding: 20px 24px;
+  }
+ 

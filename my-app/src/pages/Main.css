@@ -1,0 +1,130 @@
+
+#textparanone{
+    position: relative;
+    bottom: 400px;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    font-weight: bolder;
+    
+}
+
+/* buttons */
+.button-23 {
+  background-color: #FFFFFF;
+  border: 1px solid #222222;
+  border-radius: 8px;
+  box-sizing: border-box;
+  color: #222222;
+  cursor: pointer;
+  display: inline-block;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 20px;
+  margin: 0;
+  outline: none;
+  padding: 13px 23px;
+  position: relative;
+  bottom: 350px;
+  left: 400px;
+  text-align: center;
+  text-decoration: none;
+  touch-action: manipulation;
+  transition: box-shadow .2s,-ms-transform .1s,-webkit-transform .1s,transform .1s;
+  user-select: none;
+  -webkit-user-select: none;
+  width: auto;
+}
+
+.button-24 {
+    background-color: #FFFFFF;
+    border: 1px solid #222222;
+    border-radius: 8px;
+    box-sizing: border-box;
+    color: #222222;
+    cursor: pointer;
+    display: inline-block;
+    font-family: 'Times New Roman', Times, serif;    font-size: 16px;
+    font-weight: 600;
+    line-height: 20px;
+    margin: 0;
+    outline: none;
+    padding: 13px 23px;
+    position: relative;
+    bottom: 350px;
+    left:550px;
+    text-align: center;
+    text-decoration: none;
+    touch-action: manipulation;
+    transition: box-shadow .2s,-ms-transform .1s,-webkit-transform .1s,transform .1s;
+    user-select: none;
+    -webkit-user-select: none;
+    width: auto;
+  }
+  
+  .card-title{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .xxx{
+    font-size: 10px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+  /* NAV */
+ #nav-bar{
+  background-color: white;
+ }
+ .topnav {
+  overflow: hidden;
+  background-color: rgb(253, 183, 206);
+  position: relative;
+}
+
+.topnav #myLinks {
+  display: none;
+}
+
+.topnav a {
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  display: block;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 30px;
+}
+
+.topnav a.icon {
+  background:rgb(230, 182, 198);
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 0;
+  
+}
+
+.topnav a:hover {
+  
+  color: palevioletred;
+}
+
+.active {
+  background-color: palevioletred;
+ 
+}
+
+.divmenu {
+  width: 35px;
+  height: 5px;
+  background-color: black;
+  margin: 6px 0;
+}
+
+/* info */
+.container-main{
+    position: relative;
+    bottom: 200px;
+}
